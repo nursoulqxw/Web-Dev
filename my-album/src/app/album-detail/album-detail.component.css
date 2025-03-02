@@ -1,0 +1,46 @@
+
+.action-fields{
+    display: flex;
+    flex-direction: row;
+    border: none;
+    margin-left: 120px;
+    width: 70%;
+}
+
+.input-data{
+    width: 50%;
+    margin-left: 120px;
+    height: 20px;
+    border-radius: 4px;
+    border: 2px solid rgb(219, 219, 219);
+}
+
+.save-data{
+    background-color: rgb(94, 9, 180);
+    color: white;
+    margin-left: 20px ;
+    height: 24px;
+    border: none;
+    border-radius: 4px;
+}
+
+.album-detail{
+    width: 60%;
+    margin-left: 200px;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(94, 9, 180);
+    font-size: 16px;
+}
+
+.top-buttons{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}

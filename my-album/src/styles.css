@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+app-home{
+    display: flex;
+    width: 100%;
+    /* height: 100%; */
+    justify-content: center;
+    align-items: center;
+    padding-top: 120px;
+}
+
+app-albums{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+
+app-album-detail{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+
+app-album-photos{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    /* margin-left: 10%;
+    margin-top: 20px; */
+    justify-content: center;
+}
